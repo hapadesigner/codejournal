@@ -308,6 +308,38 @@ body {
   border-radius: 4px;
 }
 
+.latest-16 {
+  background-image: url(../img/img17.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 15rem;
+  border-radius: 4px;
+}
+
+.latest-17 {
+  background-image: url(../img/img19.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 15rem;
+  border-radius: 4px;
+}
+
+.latest-18 {
+  background-image: url(../img/img18.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 15rem;
+  border-radius: 4px;
+}
+
+.latest-19 {
+  background-image: url(../img/img20.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 15rem;
+  border-radius: 4px;
+}
+
 
 .latest-overlay {
   opacity: 0;
